@@ -51,5 +51,5 @@ Iron 5x5 does not knowingly collect any personal information from anyone, includ
 ## 9. Changes to This Policy & Contact
 If future updates introduce optional features (such as cloud sync) that change how data is handled, this policy will be updated prior to release. If you have any questions about this policy or the app, please contact:
 
-Awakeallhours  
+awakeallhours  
 Email: support@awakeallhours.com
