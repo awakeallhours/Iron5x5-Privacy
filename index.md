@@ -1,8 +1,8 @@
 # Privacy Policy & Data Disclosure for Iron 5x5
 
-**Effective Date:** November 2026  
-**Developer:** [AwakeAllHours]  
-**Contact Email:** [Support@AwakeAllHours.com]
+Effective Date: November 2026  
+Developer: AwakeAllHours  
+Contact Email: Support@AwakeAllHours.com
 
 ## 1. Overview
 **Iron 5x5** is built on a simple principle: **your training data belongs strictly to you.** The app operates entirely offline on your device. We do not require you to create an account, and we do not collect, transmit, sell, or store any of your personal or workout data on external servers.
@@ -51,8 +51,5 @@ Iron 5x5 does not knowingly collect any personal information from anyone, includ
 ## 9. Changes to This Policy & Contact
 If future updates introduce optional features (such as cloud sync) that change how data is handled, this policy will be updated prior to release. If you have any questions about this policy or the app, please contact:
 
-**[AwakeAllHours]**  
-Email: **[Support@AwakeAllHours.com]**
-
----
-*This is for informational purposes only. For medical advice or diagnosis, consult a professional. AI responses may include mistakes.*
+AwakeAllHours  
+Email: Support@AwakeAllHours.com
